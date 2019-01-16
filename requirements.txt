@@ -1,0 +1,2 @@
+--extra-index-url https://github.com/munkyshi/autoflake
+autoflake==v1.3-munkyshi
